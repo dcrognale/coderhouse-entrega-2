@@ -1,0 +1,6 @@
+/.DS_Store
+/.env
+/tests
+/venv
+/.venv
+*pycache*
